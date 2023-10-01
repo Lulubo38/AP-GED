@@ -1,0 +1,13 @@
+/* FileExplorer.css */
+
+.file-explorer-container {
+    background: rgba(240, 240, 240, 0.8); /* Fond semi-transparent */
+    padding: 20px; /* Marge intérieure */
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    right: 10%;
+    bottom: 10%;
+    overflow: auto; /* Défilement si le contenu dépasse la zone */
+  }
+  

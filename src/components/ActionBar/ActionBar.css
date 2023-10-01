@@ -1,0 +1,21 @@
+/* ActionBar.css */
+
+.action-bar {
+    padding: 10px;
+    border-bottom: 1px solid #d9d9d9;
+}
+
+.action-bar button {
+    margin-right: 10px;
+    color: #007bff; /* Couleur bleu clair pour le texte du bouton */
+    /* Autres styles pour les boutons si nécessaire */
+}
+
+/* Style pour l'icône SVG */
+.icon {
+    width: 16px; /* Définissez la largeur souhaitée */
+    height: 16px; /* Définissez la hauteur souhaitée */
+    margin-right: 4px; /* Espacement à droite de l'icône */
+    fill: #007bff; /* Couleur de remplissage de l'icône en bleu clair */
+    /* Autres styles pour l'icône SVG si nécessaire */
+}

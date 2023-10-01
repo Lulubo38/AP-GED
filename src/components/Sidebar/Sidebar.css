@@ -1,0 +1,16 @@
+/* Sidebar.css */
+
+.sidebar {
+    width: 20%;
+    background-color: #f7f7f7;
+    border-right: 1px solid #e0e0e0;
+    padding: 10px;
+    overflow-y: auto; /* Permet le défilement si la liste est longue */
+  }
+  
+  /* Style du texte à l'intérieur de la barre latérale */
+  .sidebar li {
+    color: #007bff; /* Couleur bleu clair pour le texte à l'intérieur de la barre latérale */
+    /* Autres styles pour le texte à l'intérieur de la barre latérale si nécessaire */
+  }
+  
